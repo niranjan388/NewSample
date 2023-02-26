@@ -6,7 +6,7 @@ public class New2class {
 		// TODO Auto-generated method stub
 		System.out.println("Hiii");
 
-		//neww maga
+		// HIII
 
 
 
